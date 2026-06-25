@@ -33,6 +33,7 @@ const Home = () => {
     <>
       <Navbar />
       <Outlet />
+      
     </>
   );
 };
